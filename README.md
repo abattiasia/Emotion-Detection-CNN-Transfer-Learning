@@ -1,5 +1,7 @@
 # Emotion-Detection-CNN-Transfer-Learning
 
+![Project Image](https://analyticsindiamag.com/wp-content/uploads/2020/10/face_emotion.png)
+
 This project aims to build an emotion detection system using Convolutional Neural Networks (CNN) and Transfer Learning techniques. The model leverages VGG16, a pre-trained deep learning model, to classify facial emotions from images, significantly improving accuracy and reducing training time. By utilizing transfer learning, we enhance the performance of emotion detection while efficiently utilizing the available datasets.
 
 ### Tech Stack:
